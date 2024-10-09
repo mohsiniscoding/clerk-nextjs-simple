@@ -2,7 +2,7 @@
 
 1. Create a new account on Clerk and create a new project
 2. Copy .env.local.example to .env.local
-3. Replace NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY, CLERK_SECRET_KEY with your Clerk keys
+3. Replace `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY`, `CLERK_SECRET_KEY` with your Clerk keys
 
 ## Getting Started
 
